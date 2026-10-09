@@ -1,5 +1,5 @@
 # random-archive
-Archive of random applications I have that can't be easily downloaded anymore
+Archive of random applications I have that can't be easily downloaded anymore.
 
 
 
